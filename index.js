@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
   if (string === string.toLowerCase()) {
-    return ("I can't hear you!");
+    return string ("I can't hear you!");
   } if (string === string.toUpperCase()); {
     return ("YES INDEED!");
   } if (string === 'I love you, Grandma.'); {
