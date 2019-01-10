@@ -6,14 +6,3 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-  if (string === string.toLowerCase()) {
-    if ("I can't hear you!");
-  } if (string === string.toUpperCase()); {
-    if ("YES INDEED!");
-  } if (string === 'I love you, Grandma.'); {
-    if ("I love you, too.");
-}
-sayHiToGrandma(whisper('heLlo'));
-sayHiToGrandma(shout('HEllO'));
-sayHiToGrandma("I love you, Grandma.");
-
